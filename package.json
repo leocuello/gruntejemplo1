@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/leocuello/gruntejemplo1/issues"
   },
-  "homepage": "https://github.com/leocuello/gruntejemplo1"
+  "homepage": "https://github.com/leocuello/gruntejemplo1",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
