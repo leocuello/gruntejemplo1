@@ -1,6 +1,6 @@
 gruntejemplo1
 =============
 
-Aprendiendo Grunt.
+Grunt.
 
 grunt-contrib-connect
